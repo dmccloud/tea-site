@@ -140,6 +140,7 @@ h4 {
   justify-content: center;
 }
 .location {
+  border-radius: 40px;
   margin: 20px;
   opacity: 0.7;
   display: flex;
